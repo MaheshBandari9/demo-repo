@@ -3,4 +3,6 @@ Hello
 This is intro for Git
 
 
-Description
+Description.
+
+Welcome to Git
